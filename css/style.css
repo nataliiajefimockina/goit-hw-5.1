@@ -1,0 +1,25 @@
+table {
+    width: 500px;
+    height: 541px;
+    border-collapse: collapse;
+}
+
+td {
+    border: 11px solid #0b1813;
+}
+
+.yellow-box {
+    background-color: rgba(255, 230, 98, 1);
+}
+
+.red-box {
+    background-color: rgba(255, 87, 60, 1);
+}
+
+.blue-box {
+    background-color: rgba(18, 81, 142, .99);
+}
+
+.grey-box {
+    background-color: rgba(19, 23, 22, 1);
+}
