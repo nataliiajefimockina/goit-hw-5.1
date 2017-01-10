@@ -10,6 +10,7 @@ td {
 
 td:first-child {
     border-left: 0;
+    border-bottom: 0;
 }
 
 td:last-child {
